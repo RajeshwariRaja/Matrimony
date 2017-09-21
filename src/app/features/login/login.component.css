@@ -1,0 +1,6 @@
+.login-wrapper{
+    background: url('/assets/img/loginbanner.jpg');
+    background-size: cover;
+    background-position: 504px 0;
+    background-repeat: no-repeat;
+}
